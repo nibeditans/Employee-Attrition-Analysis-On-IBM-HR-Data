@@ -40,7 +40,4 @@ Employee attrition is a critical concern for organizations, impacting productivi
   
 These insights can guide HR departments in tailoring retention strategies for specific roles, departments, and educational backgrounds.
 
- 
 That's it! I've already added clear explanations inside the notebook itself, there shouldn't be any issues on understing the concepts. 
-
-Feel free to customize this `README.md` further to align with your personal style or any additional details you'd like to include.
