@@ -18,13 +18,13 @@ Employee attrition is a critical concern for organizations, impacting productivi
 - Power BI (power BI Desktop)
     - Power Query Editor x DAX
 
-## 🔍 Project Objectives
+## Project Objectives
 - Understand the key drivers of employee attrition.
 - Identify roles, departments, and demographics more prone to attrition.
 - Create an interactive and insightful dashboard for business stakeholders.
 - Support data-driven decision-making to reduce employee turnover.
 
-## 📁 Project Structure
+## Project Structure
 - [IBM HR Employee Attrition Data.csv (Raw Data)](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data/blob/main/IBM%20HR%20Employee%20Attrition%20Data.csv)
 - [IBM HR Employee Attrition Data.ipynb (Jupyter Notebook)](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data/blob/main/Dataset%203%20-%20IBM%20HR%20Employee%20Attrition%20Data.ipynb)
 - [IBM HR Employee Attrition Analysis.pbix (Power BI Report)](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data/blob/main/IBM%20HR%20Employee%20Attrition%20Analysis.pbix)
@@ -56,6 +56,7 @@ Employee attrition is a critical concern for organizations, impacting productivi
       - Educational backgrounds in Life Sciences and Medical fields have higher attrition.
   
 These insights can guide HR departments in tailoring retention strategies for specific roles, departments, and educational backgrounds.
+
 
 That's it! I've already added clear explanations inside the notebook itself, there shouldn't be any issues on understing the concepts. 
 
