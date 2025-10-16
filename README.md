@@ -59,6 +59,7 @@ Employee attrition is a critical concern for organizations, impacting productivi
   
 These insights can guide HR departments in tailoring retention strategies for specific roles, departments, and educational backgrounds.
 
+Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.😄
 
 That's it! I've already added clear explanations inside the notebook itself, there shouldn't be any issues on understing the concepts. 
 
