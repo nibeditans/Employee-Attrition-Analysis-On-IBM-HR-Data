@@ -2,17 +2,20 @@
 
 In this project, I have explored and analyzed Employee Attrition & Performance using IBM HR Analytics dataset. The goal is to uncover patterns, identify key factors contributing to attrition, and insights related to employee turnover through visualization and statistical techniques using Python (for Data Exploration, Preprocessing, and Analyzing) and Power BI (for Interactive Report and Visual Storytelling).
 
-You can check out the complete article I have written on this Project: [Employee Attrition Analysis On IBM HR Data](https://nsdsda.medium.com/employee-attrition-analysis-on-ibm-hr-data-db3e07ebad43)
+Check out the complete project walkthrough I have written on this Project: [Employee Attrition Analysis On IBM HR Data](https://nsdsda.medium.com/employee-attrition-analysis-on-ibm-hr-data-db3e07ebad43)
 
 ## Overview
+
 Employee attrition is a critical concern for organizations, impacting productivity and morale. By analyzing historical HR data, we aim to identify key factors contributing to employee departures, enabling proactive retention strategies.
 
 ## Dataset
+
 - Source: [IBM HR Employee Attrition Data](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data/blob/main/IBM%20HR%20Employee%20Attrition%20Data.csv)
 - Records: 1,470
 - Features: 35 (including both numerical and categorical variables)
 
 ## Tools & Libraries Used
+
 - Python (Jupyter Notebook)
     - Pandas
     - Matplotlib
@@ -21,12 +24,14 @@ Employee attrition is a critical concern for organizations, impacting productivi
     - Power Query Editor x DAX
 
 ## Project Objectives
+
 - Understand the key drivers of employee attrition.
 - Identify roles, departments, and demographics more prone to attrition.
 - Create an interactive and insightful dashboard for business stakeholders.
 - Support data-driven decision-making to reduce employee turnover.
 
 ## Project Structure
+
 - [IBM HR Employee Attrition Data.csv (Raw Data)](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data/blob/main/IBM%20HR%20Employee%20Attrition%20Data.csv)
 - [IBM HR Employee Attrition Data.ipynb (Jupyter Notebook)](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data/blob/main/Dataset%203%20-%20IBM%20HR%20Employee%20Attrition%20Data.ipynb)
 - [IBM HR Employee Attrition Analysis.pbix (Power BI Report)](https://github.com/nibeditans/Employee-Attrition-Analysis-On-IBM-HR-Data/blob/main/IBM%20HR%20Employee%20Attrition%20Analysis.pbix)
@@ -36,6 +41,7 @@ Employee attrition is a critical concern for organizations, impacting productivi
 
 
 ## Key Analysis Steps
+
 1. **Data Inspection:**
     - Checked dataset shape, data types, missing values, and duplicates.
     - Categorized columns into numerical and categorical features.
@@ -50,6 +56,7 @@ Employee attrition is a critical concern for organizations, impacting productivi
     - Noted significant correlations, such as between Job Level and Monthly Income.
 
 ## Insights
+
 - **Job Level & Monthly Income:** Strong positive correlation indicates higher job levels are associated with increased income.
 - **Total Working Years & Monthly Income:** Longer tenure correlates with higher income, suggesting experience impacts compensation.
 - **Attrition Trends:**
@@ -59,11 +66,12 @@ Employee attrition is a critical concern for organizations, impacting productivi
   
 These insights can guide HR departments in tailoring retention strategies for specific roles, departments, and educational backgrounds.
 
-Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.😄
+Wanna explore more Projects? Check out the [Data Projects Collection](https://github.com/nibeditans/Data-Projects) Page.😄
 
 That's it! I've already added clear explanations inside the notebook itself, there shouldn't be any issues on understing the concepts. 
 
 ## 📬 Contact
+
 Feel free to connect if you'd like to discuss this project or have any feedback!
 - GitHub: [@nibeditans](https://github.com/nibeditans)
 - LinkedIn: [Nibedita Sahu](https://in.linkedin.com/in/ns-nibedita-sahu)
